@@ -8,11 +8,10 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.Select;
 
 import java.time.Duration;
 
-public class Exercise3 {
+public class Q3 {
     /* ...Exercise3...
     go to url : https://www.techlistic.com/p/selenium-practice-form.html
     fill the firstname

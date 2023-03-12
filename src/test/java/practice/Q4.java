@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class Exercise4 {
+public class Q4 {
     /* ...Exercise4...
 Navigate to  https://testpages.herokuapp.com/styled/index.html
 Click on  Calculater under Micro Apps
